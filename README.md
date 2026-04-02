@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-<h2>Hi 👋 I'm Raghd Ahmed</h2>
+<h2>Hi 👋 I'm Raghad Ahmed</h2>
 <p>Frontend Developer | React ⚛️</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat&color=orange)
@@ -14,8 +14,7 @@
 
 ## 🚀 About Me
 - 💻 Frontend Developer specialized in **React**
-- 🌱 Currently improving my skills in **Advanced React & UI/UX**
-- 🎨 Passionate about building clean and modern interfaces
+- 🌱 Currently improving my skills in **Advanced React **
 - 💬 Ask me about **React, JavaScript, CSS**
 - ⚡ Fun fact: I love turning ideas into interactive UI
 
